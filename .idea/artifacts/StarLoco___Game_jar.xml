@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="StarLoco - Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StarLoco___Game_jar</output-path>
+    <root id="root">
+      <element id="archive" name="StarLoco_Game.jar">
+        <element id="module-output" name="StarLoco - Game" />
+      </element>
+      <element id="directory" name="libs">
+        <element id="library" level="project" name="libs" />
+      </element>
+    </root>
+  </artifact>
+</component>

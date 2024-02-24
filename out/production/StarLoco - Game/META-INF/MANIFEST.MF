@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: libs/jep.jar libs/mysql.jar libs/jansi-1.7.jar libs/javassist.jar config-1.2.1
+ .jar libs/joda-time-2.6.jar libs/HikariCP-1.3.8.jar libs/commons-cli-1.2.jar libs/mina-co
+ re-2.0.9.jar libs/slf4j-api-1.7.7.jar libs/commons-lang-2.6.jar libs/logback-core-1.
+ 1.2.jar libs/google-translate-095.jar libs/commons-logging-1.0.3.jar libs/logback-cl
+ assic-1.1.2.jar
+Main-Class: org.starloco.locos.kernel.Main
+

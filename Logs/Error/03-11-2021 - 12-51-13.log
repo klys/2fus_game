@@ -1,0 +1,5 @@
+Exception in thread "main" java.lang.NullPointerException: Cannot read field "resultSet" because "result" is null
+	at org.starloco.locos.database.dynamics.data.FullMorphData.load(FullMorphData.java:28)
+	at org.starloco.locos.game.world.World.createWorld(World.java:267)
+	at org.starloco.locos.kernel.Main.start(Main.java:104)
+	at org.starloco.locos.kernel.Main.main(Main.java:89)

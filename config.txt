@@ -1,0 +1,26 @@
+## Fichier de configuration pour StarLoco par Locos ##
+
+## Server information : 
+SERVER_ID = 601
+SERVER_KEY = eratz
+CONFIG_ID = 601
+DEBUG = false
+USE_LOG = true
+SUBSCRIBER = false
+PUB1 = 
+PUB2 = 
+PUB3 = 
+START_PLAYER = 164,298
+ALL_ZAAP = true
+ALL_EMOTE = true
+DELAY_DEBLO = 3600000
+HEROIC = false
+HALLOWEEN = false
+MESSAGE = 
+CRYPT = false
+## Server rate : 
+RATE_XP = 10
+RATE_DROP = 10
+RATE_JOB = 10
+RATE_KAMAS = 10
+RATE_FM = 2
